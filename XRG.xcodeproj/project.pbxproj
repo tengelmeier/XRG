@@ -379,7 +379,7 @@
 				ORGANIZATIONNAME = "Gaucho Software";
 				TargetAttributes = {
 					273ECE6415740DE700E65D82 = {
-						DevelopmentTeam = 28EXY66HMA;
+						DevelopmentTeam = P795D4PP7U;
 						SystemCapabilities = {
 							com.apple.HardenedRuntime = {
 								enabled = 1;
@@ -569,7 +569,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 2.8.2;
-				DEVELOPMENT_TEAM = 28EXY66HMA;
+				DEVELOPMENT_TEAM = P795D4PP7U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Other Sources/XRG-Prefix.pch";
